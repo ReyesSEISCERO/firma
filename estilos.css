@@ -17,7 +17,7 @@ font-size: 1.4rem;
 }
 
 .firma-pad {
-    cursor: url(images/pluma.png) 0 30, pointer;
+    cursor: url(pluma.png) 0 30, pointer;
     border: 2px solid var(--color-primario);
     border-radius: 2px solid var(--color-primario);
     border-radius: 4px;
